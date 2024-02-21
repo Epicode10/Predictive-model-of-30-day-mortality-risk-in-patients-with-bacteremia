@@ -88,5 +88,6 @@ cat("", "\n")
 
 ```
 
-# 
+# Dependencies
+R package: ranger 0.13.1
 
