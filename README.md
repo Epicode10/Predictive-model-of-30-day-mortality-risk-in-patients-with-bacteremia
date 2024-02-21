@@ -89,5 +89,5 @@ cat("", "\n")
 ```
 
 # Dependencies
-R package: ranger 0.13.1
+R package: ranger >= 0.13.1
 
