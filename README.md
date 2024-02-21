@@ -3,7 +3,7 @@ The model was conducted by random forest to predict 30-day mortality risk in pat
 The manuscript has been submitted: "An interpretable machine learning approach to evaluate 30-day mortality risk in patients with community-onset bacteremia".
 
 # Usage
-See "execute_prediction.R" for an example of how to run this model.
+See "Execute_prediction.R" for an example of how to run this model.
 ### execute_prediction.R:
 ```diff
 
