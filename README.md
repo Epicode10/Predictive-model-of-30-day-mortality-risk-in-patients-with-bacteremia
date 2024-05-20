@@ -90,4 +90,6 @@ cat("", "\n")
 
 # Dependencies
 R package: ranger >= 0.13.1
+# Papers
+Chien-Chou Su, Ju-Ling Chen, Tzu-Hao Shan, Ching-Chi Lee, Chun-Te Li, Wen-Liang Lin, Ching-Lan Cheng. *An interpretable machine learning approach to evaluate 30-day mortality risk in patients with community-onset bacteremia* (2024; submission)
 
